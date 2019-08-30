@@ -7,3 +7,5 @@ Add some changes here
 
 Sample website with plenty of files for demos
 And some more to have an example for diff.
+
+Change this one too
