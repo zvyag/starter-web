@@ -12,3 +12,6 @@ Change this one too
 
 ### Copyright 
 2014. Git. Training
+
+### One more step
+add this to check automatic merges.
