@@ -12,7 +12,7 @@ And some more to have an example for diff.
 Change this one too
 
 ### Copyright 
-2014. Git. Training
+2014. Git. Training. All rights reserved.
 
 ### One more step
 add this to check automatic merges.
